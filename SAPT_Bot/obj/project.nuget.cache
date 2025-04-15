@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCqZn86PBF0=",
+  "success": true,
+  "projectFilePath": "D:\\Other\\projects\\SAPT_Bot\\SAPT_Bot\\SAPT_Bot.csproj",
+  "expectedPackageFiles": [
+    "D:\\Other\\NuGetPackages\\epplus\\7.6.0\\epplus.7.6.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\epplus.interfaces\\7.5.0\\epplus.interfaces.7.5.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\epplus.system.drawing\\7.5.0\\epplus.system.drawing.7.5.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.configuration\\9.0.1\\microsoft.extensions.configuration.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.configuration.fileextensions\\9.0.1\\microsoft.extensions.configuration.fileextensions.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.configuration.json\\9.0.1\\microsoft.extensions.configuration.json.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.fileproviders.abstractions\\9.0.1\\microsoft.extensions.fileproviders.abstractions.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.fileproviders.physical\\9.0.1\\microsoft.extensions.fileproviders.physical.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.filesystemglobbing\\9.0.1\\microsoft.extensions.filesystemglobbing.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\system.security.cryptography.pkcs\\9.0.1\\system.security.cryptography.pkcs.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\system.text.encoding.codepages\\9.0.1\\system.text.encoding.codepages.9.0.1.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "D:\\Other\\NuGetPackages\\telegram.bot\\22.4.4\\telegram.bot.22.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+# SQL Server files
+*.mdf
+*.ldf
+
+# C# project technical files
+*.vsidx

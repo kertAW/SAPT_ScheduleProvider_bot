@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SAPT_Bot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
